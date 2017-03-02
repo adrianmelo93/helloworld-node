@@ -1,0 +1,25 @@
+{
+  "name": "helloworld-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianmelo93/helloworld-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianmelo93/helloworld-node/issues"
+  },
+  "homepage": "https://github.com/adrianmelo93/helloworld-node#readme",
+  "dependencies": {
+    "express": "^4.15.0",
+    "mysql": "^2.13.0",
+    "nodemon": "^1.11.0"
+  }
+}
